@@ -1,0 +1,134 @@
+[
+    {
+        "id": 917418366531,
+        "name": "Chardonnay",
+        "type": "White Wine",
+        "region": "California",
+        "vintage": 2020,
+        "price": 25.99,
+        "volume": 750,
+        "alcohol_percentage": 13.5,
+        "img": "https://i.ibb.co/XSxRpKZ/bottle1.jpg"
+    },
+    {
+        "id": 917418366532,
+        "name": "Cabernet Sauvignon",
+        "type": "Red Wine",
+        "region": "France",
+        "vintage": 2018,
+        "price": 35.99,
+        "volume": 750,
+        "alcohol_percentage": 14.2,
+        "img": "https://i.ibb.co/x2r95Gv/bottle2.jpg"
+    },
+    {
+        "id": 917418366533,
+        "name": "Prosecco",
+        "type": "Sparkling Wine",
+        "region": "Italy",
+        "vintage": 2019,
+        "price": 18.99,
+        "volume": 750,
+        "alcohol_percentage": 11.5,
+        "img": "https://i.ibb.co/xSjFG12/bottle3.jpg"
+    },
+    {
+        "id": 917418366534,
+        "name": "Sauvignon Blanc",
+        "type": "White Wine",
+        "region": "New Zealand",
+        "vintage": 2021,
+        "price": 21.99,
+        "volume": 750,
+        "alcohol_percentage": 12.8,
+        "img": "https://i.ibb.co/vhRdmT9/bottle4.jpg"
+    },
+    {
+        "id": 917418366535,
+        "name": "Merlot",
+        "type": "Red Wine",
+        "region": "California",
+        "vintage": 2017,
+        "price": 28.99,
+        "volume": 750,
+        "alcohol_percentage": 13.0,
+        "img": "https://i.ibb.co/XSxRpKZ/bottle1.jpg"
+    },
+    {
+        "id": 917418366536,
+        "name": "Rosé",
+        "type": "Rosé Wine",
+        "region": "France",
+        "vintage": 2020,
+        "price": 19.99,
+        "volume": 750,
+        "alcohol_percentage": 12.5,
+        "img": "https://i.ibb.co/x2r95Gv/bottle2.jpg"
+    },
+    {
+        "id": 917418366537,
+        "name": "Malbec",
+        "type": "Red Wine",
+        "region": "Argentina",
+        "vintage": 2019,
+        "price": 24.99,
+        "volume": 750,
+        "alcohol_percentage": 14.0,
+        "img": "https://i.ibb.co/xSjFG12/bottle3.jpg"
+    },
+    {
+        "id": 917418366538,
+        "name": "Pinot Grigio",
+        "type": "White Wine",
+        "region": "Italy",
+        "vintage": 2020,
+        "price": 22.99,
+        "volume": 750,
+        "alcohol_percentage": 12.3,
+        "img": "https://i.ibb.co/vhRdmT9/bottle4.jpg"
+    },
+    {
+        "id": 917418366539,
+        "name": "Zinfandel",
+        "type": "Red Wine",
+        "region": "California",
+        "vintage": 2018,
+        "price": 29.99,
+        "volume": 750,
+        "alcohol_percentage": 14.5,
+        "img": "https://i.ibb.co/XSxRpKZ/bottle1.jpg"
+    },
+    {
+        "id": 9174183665310,
+        "name": "Riesling",
+        "type": "White Wine",
+        "region": "Germany",
+        "vintage": 2020,
+        "price": 26.99,
+        "volume": 750,
+        "alcohol_percentage": 11.8,
+        "img": "https://i.ibb.co/x2r95Gv/bottle2.jpg"
+    },
+    {
+        "id": 9174183665311,
+        "name": "Syrah",
+        "type": "Red Wine",
+        "region": "Australia",
+        "vintage": 2017,
+        "price": 31.99,
+        "volume": 750,
+        "alcohol_percentage": 13.7,
+        "img": "https://i.ibb.co/xSjFG12/bottle3.jpg"
+    },
+    {
+        "id": 9174183665312,
+        "name": "Champagne",
+        "type": "Sparkling Wine",
+        "region": "France",
+        "vintage": 2015,
+        "price": 45.99,
+        "volume": 750,
+        "alcohol_percentage": 12.0,
+        "img": "https://i.ibb.co/vhRdmT9/bottle4.jpg"
+    }
+]
